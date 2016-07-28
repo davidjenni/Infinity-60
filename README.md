@@ -3,7 +3,7 @@
 Keyboard is [Infinity 60%](https://input.club/devices/infinity-keyboard), mine is in the Hacker layout option.
 
 
-![configuration](assets/Infinity-config.png)
+![configuration](assets/infinity-config.png)
 
 
 ## Installation:
